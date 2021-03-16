@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.125
+class: Block
+class (namespaced): org.jtetris.models.elements.Block
+descendents class: Rectangle
+descendents class (namespaced): org.jtetris.models.elements.Rectangle
