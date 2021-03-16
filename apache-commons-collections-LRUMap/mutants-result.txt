@@ -1,0 +1,27 @@
+    ________________________________________________________________________
+    | Mutant                      | Mutant Type| Status |  #Tests |  #Fails |
+    |=======================================================================|
+ 1. | AbstractLinkedMap.java-IHI-1| IHI        | killed | 39      | 3       |
+ 2. | AbstractLinkedMap.java-IHI-2| IHI        | killed | 39      | 7       |
+ 3. | AbstractLinkedMap.java-IHI-3| IHI        | live   | 39      | 0       |
+ 4. | AbstractLinkedMap.java-IHI-4| IHI        | live   | 39      | 0       |
+ 5. | AbstractLinkedMap.java-IHI-5| IHI        | live   | 39      | 0       |
+ 6. | AbstractLinkedMap.java-IHI-6| IHI        | live   | 39      | 0       |
+ 7. | AbstractLinkedMap.java-IHI-7| IHI        | live   | 39      | 0       |
+ 8. | AbstractLinkedMap.java-IOD-1| IOD        | killed | 39      | 10      |
+ 9. | AbstractLinkedMap.java-IOD-2| IOD        | live   | 39      | 0       |
+10. | AbstractLinkedMap.java-IOD-3| IOD        | live   | 39      | 0       |
+11. | AbstractLinkedMap.java-IOD-4| IOD        | killed | 39      | 3       |
+12. | AbstractLinkedMap.java-IOD-5| IOD        | live   | 39      | 0       |
+13. | AbstractLinkedMap.java-IPC-1| IPC        | live   | 39      | 0       |
+14. | AbstractLinkedMap.java-IPC-2| IPC        | live   | 39      | 0       |
+15. | LRUMap.java-IHI-1           | IHI        | killed | 39      | 23      |
+16. | LRUMap.java-IHI-2           | IHI        | killed | 39      | 4       |
+17. | LRUMap.java-IOD-1           | IOD        | live   | 39      | 0       |
+18. | LRUMap.java-IOD-2           | IOD        | killed | 39      | 2       |
+19. | LRUMap.java-IOD-3           | IOD        | live   | 39      | 0       |
+20. | LRUMap.java-IOD-4           | IOD        | killed | 39      | 2       |
+21. | LRUMap.java-IOD-5           | IOD        | live   | 39      | 0       |
+22. | LRUMap.java-IPC-1           | IPC        | killed | 39      | 17      |
+
+Overall Result: 9 of 22 (40.91 percent) mutants killed

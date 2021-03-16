@@ -1,0 +1,8 @@
+"Mutant","Mutant Type","Status "," #Tests "," #Fails "
+"Square.java-original-0","original","live","1","0"
+"Square.java-IHI-1","IHI","live","1","0"
+"Square.java-IHI-2","IHI","killed","1","1"
+"Square.java-IHI-3","IHI","live","1","0"
+"Square.java-IHI-4","IHI","killed","1","1"
+"Square.java-IHI-5","IHI","live","1","0"
+"Square.java-IHI-6","IHI","live","1","0"

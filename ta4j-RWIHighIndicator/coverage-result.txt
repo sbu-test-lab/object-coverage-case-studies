@@ -1,0 +1,7 @@
+
+Class = [Parents...] 
+org.ta4j.core.indicators.RWIHighIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+   ____________________________________________________________________________________________
+   | Class                                    | Object line Coverage| Traditional line Coverage|
+   |===========================================================================================|
+1. | org.ta4j.core.indicators.RWIHighIndicator| 0.465               | 0.688                    |

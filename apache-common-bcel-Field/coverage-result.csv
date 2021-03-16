@@ -1,0 +1,7 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.apache.bcel.classfile.Field","0.276","0.462"
+"org.apache.bcel.classfile.EmptyVisitor","0.034","0.034"
+"org.apache.bcel.classfile.JavaClass$1","0.200","0.200"
+"org.apache.bcel.classfile.Constant$1","0.200","0.200"
+"org.apache.bcel.classfile.ConstantPool","0.139","0.139"
+"org.apache.bcel.classfile.ClassFormatException","0.333","0.333"

@@ -1,0 +1,7 @@
+
+Class = [Parents...] 
+org.apache.commons.validator.routines.LongValidator=[org.apache.commons.validator.routines.AbstractNumberValidator, org.apache.commons.validator.routines.AbstractFormatValidator]
+   ______________________________________________________________________________________________________
+   | Class                                              | Object line Coverage| Traditional line Coverage|
+   |=====================================================================================================|
+1. | org.apache.commons.validator.routines.LongValidator| 0.540               | 1.000                    |

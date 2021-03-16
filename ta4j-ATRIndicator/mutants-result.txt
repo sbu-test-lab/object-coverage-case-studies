@@ -1,0 +1,16 @@
+    ________________________________________________________________________
+    | Mutant                      | Mutant Type| Status |  #Tests |  #Fails |
+    |=======================================================================|
+ 1. | AbstractIndicator.java-IOD-1| IOD        | live   | 2       | 0       |
+ 2. | AbstractIndicator.java-PPD-1| PPD        | live   | 2       | 0       |
+ 3. | ATRIndicator.java-IHI-1     | IHI        | live   | 2       | 0       |
+ 4. | ATRIndicator.java-IOI-1     | IOI        | live   | 2       | 0       |
+ 5. | ATRIndicator.java-IOI-2     | IOI        | live   | 2       | 0       |
+ 6. | ATRIndicator.java-IOI-3     | IOI        | live   | 2       | 0       |
+ 7. | ATRIndicator-IPC-1          | IPC        | live   | 2       | 0       |
+ 8. | CachedIndicator.java-IHI-1  | IHI        | live   | 2       | 0       |
+ 9. | CachedIndicator-IPC-1       | IPC        | killed | 2       | 1       |
+10. | CachedIndicator-IPC-2       | IPC        | live   | 2       | 0       |
+11. | CachedIndicator-IPC-3       | IPC        | killed | 2       | 1       |
+
+Overall Result: 2 of 11 (18.18 percent) mutants killed

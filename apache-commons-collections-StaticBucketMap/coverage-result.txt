@@ -1,0 +1,13 @@
+
+Class = [Parents...] 
+org.apache.commons.collections4.map.StaticBucketMap=[org.apache.commons.collections4.map.AbstractIterableMap]
+org.apache.commons.collections4.map.StaticBucketMap$Node=[]
+org.apache.commons.collections4.map.StaticBucketMap$EntryIterator=[org.apache.commons.collections4.map.StaticBucketMap$BaseIterator]
+org.apache.commons.collections4.map.StaticBucketMap$EntrySet=[]
+   ____________________________________________________________________________________________________________________
+   | Class                                                            | Object line Coverage| Traditional line Coverage|
+   |===================================================================================================================|
+1. | org.apache.commons.collections4.map.StaticBucketMap              | 0.817               | 0.815                    |
+2. | org.apache.commons.collections4.map.StaticBucketMap$EntryIterator| 0.760               | 1.000                    |
+3. | org.apache.commons.collections4.map.StaticBucketMap$EntrySet     | 0.087               | 0.087                    |
+4. | org.apache.commons.collections4.map.StaticBucketMap$Node         | 0.467               | 0.467                    |

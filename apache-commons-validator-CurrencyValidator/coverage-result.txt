@@ -1,0 +1,9 @@
+
+Class = [Parents...] 
+org.apache.commons.validator.routines.BigDecimalValidator=[org.apache.commons.validator.routines.AbstractNumberValidator, org.apache.commons.validator.routines.AbstractFormatValidator]
+org.apache.commons.validator.routines.CurrencyValidator=[org.apache.commons.validator.routines.BigDecimalValidator, org.apache.commons.validator.routines.AbstractNumberValidator, org.apache.commons.validator.routines.AbstractFormatValidator]
+   ____________________________________________________________________________________________________________
+   | Class                                                    | Object line Coverage| Traditional line Coverage|
+   |===========================================================================================================|
+1. | org.apache.commons.validator.routines.BigDecimalValidator| 0.078               | 0.556                    |
+2. | org.apache.commons.validator.routines.CurrencyValidator  | 0.542               | 1.000                    |

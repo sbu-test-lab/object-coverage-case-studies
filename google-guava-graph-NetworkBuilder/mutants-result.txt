@@ -1,0 +1,12 @@
+   _____________________________________________________________________
+   | Mutant                   | Mutant Type| Status |  #Tests |  #Fails |
+   |====================================================================|
+1. | NetworkBuilder.java-IHI-1| IHI        | killed | 11      | 9       |
+2. | NetworkBuilder.java-IHI-2| IHI        | killed | 11      | 1       |
+3. | NetworkBuilder.java-IHI-3| IHI        | live   | 11      | 0       |
+4. | NetworkBuilder.java-IHI-4| IHI        | killed | 11      | 9       |
+5. | NetworkBuilder.java-IHI-5| IHI        | killed | 11      | 9       |
+6. | NetworkBuilder.java-IHI-6| IHI        | killed | 11      | 9       |
+7. | NetworkBuilder-IPC-1     | IPC        | killed | 11      | 1       |
+
+Overall Result: 6 of 7 (85.71 percent) mutants killed

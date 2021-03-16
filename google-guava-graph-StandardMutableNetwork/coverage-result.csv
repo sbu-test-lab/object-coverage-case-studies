@@ -1,0 +1,6 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"com.google.common.graph.ElementOrder","0.280","0.280"
+"com.google.common.graph.NetworkBuilder","0.750","0.682"
+"com.google.common.graph.StandardMutableNetwork","0.406","0.746"
+"com.google.common.graph.StandardNetwork","0.326","0.372"
+"com.google.common.graph.EndpointPair$Ordered","0.259","0.133"

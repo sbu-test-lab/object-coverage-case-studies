@@ -1,0 +1,17 @@
+    ______________________________________________________________________________________
+    | Mutant                                    | Mutant Type| Status |  #Tests |  #Fails |
+    |=====================================================================================|
+ 1. | AbstractCalendarValidator.java-IOD-1      | IOD        | live   | 43      | 0       |
+ 2. | AbstractCalendarValidator.java-OM-1       | OM         | live   | 43      | 0       |
+ 3. | AbstractCalendarValidator.java-OM-1 (copy)| OM         | live   | 43      | 0       |
+ 4. | AbstractCalendarValidatorAndParent-IPC-1  | IPC        | live   | 43      | 0       |
+ 5. | TimeValidator.java-IHI-1                  | IHI        | live   | 43      | 0       |
+ 6. | TimeValidator.java-IHI-2                  | IHI        | live   | 43      | 0       |
+ 7. | TimeValidator.java-IHI-3                  | IHI        | live   | 43      | 0       |
+ 8. | TimeValidator.java-OMR-1                  | OMR        | killed | 43      | 1       |
+ 9. | TimeValidator.java-OMR-2                  | OMR        | killed | 43      | 1       |
+10. | TimeValidator.java-OMR-3                  | OMR        | killed | 43      | 2       |
+11. | TimeValidator.java-OMR-4                  | OMR        | killed | 43      | 1       |
+12. | TimeValidatorAndParents-IPC-2             | IPC        | killed | 43      | 6       |
+
+Overall Result: 5 of 12 (41.67 percent) mutants killed

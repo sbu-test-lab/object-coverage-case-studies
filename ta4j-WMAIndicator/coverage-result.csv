@@ -1,0 +1,8 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.ta4j.core.indicators.helpers.ClosePriceIndicator","0.164","1.000"
+"org.ta4j.core.indicators.helpers.HighPriceIndicator","0.148","1.000"
+"org.ta4j.core.indicators.helpers.LowPriceIndicator","0.148","1.000"
+"org.ta4j.core.indicators.StochasticOscillatorKIndicator","0.203","0.429"
+"org.ta4j.core.indicators.RWILowIndicator","0.479","0.313"
+"org.ta4j.core.indicators.ParabolicSarIndicator","0.317","0.220"
+"org.ta4j.core.indicators.WMAIndicator","0.250","0.588"

@@ -1,0 +1,21 @@
+
+Class = [Parents...] 
+org.ta4j.core.indicators.ATRIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.ChopIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.LowestValueIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.MMAIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.RecursiveCachedIndicator, org.ta4j.core.indicators.AbstractIndicator, org.ta4j.core.indicators.AbstractEMAIndicator]
+org.ta4j.core.indicators.helpers.HighPriceIndicator=[org.ta4j.core.indicators.helpers.PriceIndicator, org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.LowPriceIndicator=[org.ta4j.core.indicators.helpers.PriceIndicator, org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.HighestValueIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.TRIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+   _________________________________________________________________________________________________________
+   | Class                                                 | Object line Coverage| Traditional line Coverage|
+   |========================================================================================================|
+1. | org.ta4j.core.indicators.ATRIndicator                 | 0.136               | 0.500                    |
+2. | org.ta4j.core.indicators.ChopIndicator                | 0.176               | 0.385                    |
+3. | org.ta4j.core.indicators.helpers.HighestValueIndicator| 0.147               | 0.231                    |
+4. | org.ta4j.core.indicators.helpers.HighPriceIndicator   | 0.164               | 1.000                    |
+5. | org.ta4j.core.indicators.helpers.LowestValueIndicator | 0.147               | 0.231                    |
+6. | org.ta4j.core.indicators.helpers.LowPriceIndicator    | 0.164               | 1.000                    |
+7. | org.ta4j.core.indicators.helpers.TRIndicator          | 0.127               | 0.125                    |
+8. | org.ta4j.core.indicators.MMAIndicator                 | 0.179               | 1.000                    |

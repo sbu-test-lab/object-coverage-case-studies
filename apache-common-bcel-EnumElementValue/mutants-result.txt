@@ -1,0 +1,14 @@
+   _______________________________________________________________________
+   | Mutant                     | Mutant Type| Status |  #Tests |  #Fails |
+   |======================================================================|
+1. | ElementValue.java-JOD-1    | JOD        | live   | 13      | 0       |
+2. | EnumElementValue.java-IHI-1| IHI        | live   | 13      | 0       |
+3. | EnumElementValue.java-IHI-2| IHI        | live   | 13      | 0       |
+4. | EnumElementValue.java-IHI-3| IHI        | killed | 13      | 12      |
+5. | EnumElementValue.java-IOI-1| IOI        | live   | 13      | 0       |
+6. | EnumElementValue.java-IOI-2| IOI        | live   | 13      | 0       |
+7. | EnumElementValue.java-JTD-1| JTD        | killed | 13      | 3       |
+8. | EnumElementValue.java-JTD-2| JTD        | killed | 13      | 4       |
+9. | EnumElementValue-IPC-1     | IPC        | killed | 13      | 3       |
+
+Overall Result: 4 of 9 (44.44 percent) mutants killed

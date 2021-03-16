@@ -1,0 +1,9 @@
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.AbstractIndicator,40
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.AbstractIndicator,50
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.AbstractIndicator,51
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.CachedIndicator,46
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.CachedIndicator,52
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.CachedIndicator,61
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.helpers.PriceIndicator,42
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.helpers.PriceIndicator,43
+org.ta4j.core.indicators.helpers.ClosePriceIndicator::org.ta4j.core.indicators.helpers.ClosePriceIndicator,36

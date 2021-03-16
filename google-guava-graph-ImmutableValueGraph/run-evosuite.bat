@@ -1,0 +1,2 @@
+java -jar ../tools-jars/evosuite/evosuite-1.0.6.jar -class com.google.common.graph.ImmutableValueGraph -projectCP ../cases-jars/google-guava/checker-qual-3.8.0.jar;../cases-jars/google-guava/error_prone_annotations-2.4.0.jar;../cases-jars/google-guava/failureaccess-1.0.1.jar;../cases-jars/google-guava/guava.jar;../cases-jars/google-guava/j2objc-annotations-1.3.jar;../cases-jars/google-guava/jsr305-3.0.2.jar;../cases-jars/google-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+pause

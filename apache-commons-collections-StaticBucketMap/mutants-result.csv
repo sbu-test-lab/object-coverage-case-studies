@@ -1,0 +1,5 @@
+"Mutant","Mutant Type","Status "," #Tests "," #Fails "
+"StaticBucketMap.java-JDC-1","JDC","killed","15","6"
+"StaticBucketMap.java-IOD-1","IOD","killed","15","1"
+"StaticBucketMap.java-IOD-2","IOD","killed","15","1"
+"StaticBucketMap.java-IOD-3","IOD","killed","15","1"

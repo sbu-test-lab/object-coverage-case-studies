@@ -1,0 +1,13 @@
+   ___________________________________________________________________
+   | Mutant                 | Mutant Type| Status |  #Tests |  #Fails |
+   |==================================================================|
+1. | GraphBuilder.java-IHI-1| IHI        | live   | 19      | 0       |
+2. | GraphBuilder.java-IHI-2| IHI        | live   | 19      | 0       |
+3. | GraphBuilder.java-IHI-3| IHI        | killed | 19      | 3       |
+4. | GraphBuilder.java-IHI-4| IHI        | killed | 19      | 2       |
+5. | GraphBuilder.java-IHI-5| IHI        | killed | 19      | 5       |
+6. | GraphBuilder.java-IHI-6| IHI        | killed | 19      | 4       |
+7. | GraphBuilder-IPC-1     | IPC        | killed | 19      | 2       |
+8. | GraphBuilder-IPC-2     | IPC        | killed | 19      | 1       |
+
+Overall Result: 6 of 8 (75.00 percent) mutants killed

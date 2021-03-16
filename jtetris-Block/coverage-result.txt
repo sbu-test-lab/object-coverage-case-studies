@@ -1,0 +1,9 @@
+
+Class = [Parents...] 
+org.jtetris.models.elements.Grid=[]
+org.jtetris.models.elements.Block=[org.jtetris.models.elements.Grid]
+   ____________________________________________________________________________________
+   | Class                            | Object line Coverage| Traditional line Coverage|
+   |===================================================================================|
+1. | org.jtetris.models.elements.Block| 0.805               | 1.000                    |
+2. | org.jtetris.models.elements.Grid | 0.069               | 0.724                    |

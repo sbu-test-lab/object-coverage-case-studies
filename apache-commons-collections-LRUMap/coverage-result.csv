@@ -1,0 +1,7 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.apache.commons.collections4.map.AbstractLinkedMap$EntrySetIterator","0.325","0.750"
+"org.apache.commons.collections4.map.LRUMap","0.438","0.642"
+"org.apache.commons.collections4.map.AbstractHashedMap","0.062","0.413"
+"org.apache.commons.collections4.map.AbstractLinkedMap$LinkEntry","0.500","1.000"
+"org.apache.commons.collections4.map.AbstractHashedMap$EntrySet","0.167","0.167"
+"org.apache.commons.collections4.map.AbstractHashedMap$HashEntry","0.217","0.478"

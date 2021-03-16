@@ -1,0 +1,9 @@
+
+Class = [Parents...] 
+org.apache.bcel.classfile.ConstantInvokeDynamic=[org.apache.bcel.classfile.ConstantCP, org.apache.bcel.classfile.Constant]
+org.apache.bcel.classfile.EmptyVisitor=[]
+   __________________________________________________________________________________________________
+   | Class                                          | Object line Coverage| Traditional line Coverage|
+   |=================================================================================================|
+1. | org.apache.bcel.classfile.ConstantInvokeDynamic| 0.444               | 1.000                    |
+2. | org.apache.bcel.classfile.EmptyVisitor         | 0.034               | 0.034                    |

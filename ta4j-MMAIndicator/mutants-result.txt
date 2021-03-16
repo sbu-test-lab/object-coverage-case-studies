@@ -1,0 +1,21 @@
+    _______________________________________________________________________________
+    | Mutant                             | Mutant Type| Status |  #Tests |  #Fails |
+    |==============================================================================|
+ 1. | AbstractEMAIndicator.java-IHI-1    | IHI        | live   | 2       | 0       |
+ 2. | AbstractEMAIndicator.java-IOD-1    | IOD        | live   | 2       | 0       |
+ 3. | AbstractEMAIndicator.java-IOI-1    | IOI        | live   | 2       | 0       |
+ 4. | AbstractIndicator.java-IOD-1       | IOD        | live   | 2       | 0       |
+ 5. | AbstractIndicator.java-PPD-1       | PPD        | live   | 2       | 0       |
+ 6. | CachedIndicator.java-IHI-1         | IHI        | live   | 2       | 0       |
+ 7. | CachedIndicator-IPC-1              | IPC        | killed | 2       | 1       |
+ 8. | CachedIndicator-IPC-2              | IPC        | live   | 2       | 0       |
+ 9. | MMAIndicator.java-IOI-1            | IOI        | live   | 2       | 0       |
+10. | MMAIndicator.java-IOI-2            | IOI        | live   | 2       | 0       |
+11. | MMAIndicator.java-IOI-3            | IOI        | live   | 2       | 0       |
+12. | MMAIndicator.java-org-1            | org        | live   | 2       | 0       |
+13. | MMAIndicator-IPC-1                 | IPC        | killed | 2       | 1       |
+14. | RecursiveCachedIndicator.java-IHI-1| IHI        | live   | 2       | 0       |
+15. | RecursiveCachedIndicator.java-IOD-1| IOD        | live   | 2       | 0       |
+16. | RecursiveCachedIndicator.java-IOI-1| IOI        | live   | 2       | 0       |
+
+Overall Result: 2 of 16 (12.50 percent) mutants killed

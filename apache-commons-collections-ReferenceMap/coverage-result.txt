@@ -1,0 +1,9 @@
+
+Class = [Parents...] 
+org.apache.commons.collections4.map.AbstractReferenceMap$ReferenceStrength=[]
+org.apache.commons.collections4.map.ReferenceMap=[org.apache.commons.collections4.map.AbstractReferenceMap, org.apache.commons.collections4.map.AbstractHashedMap]
+   _____________________________________________________________________________________________________________________________
+   | Class                                                                     | Object line Coverage| Traditional line Coverage|
+   |============================================================================================================================|
+1. | org.apache.commons.collections4.map.AbstractReferenceMap$ReferenceStrength| 1.000               | 1.000                    |
+2. | org.apache.commons.collections4.map.ReferenceMap                          | 0.068               | 0.455                    |

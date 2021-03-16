@@ -1,0 +1,11 @@
+
+Class = [Parents...] 
+org.apache.bcel.classfile.EnumElementValue=[org.apache.bcel.classfile.ElementValue]
+org.apache.bcel.classfile.ConstantPool=[]
+org.apache.bcel.classfile.ClassFormatException=[]
+   _________________________________________________________________________________________________
+   | Class                                         | Object line Coverage| Traditional line Coverage|
+   |================================================================================================|
+1. | org.apache.bcel.classfile.ClassFormatException| 0.333               | 0.333                    |
+2. | org.apache.bcel.classfile.ConstantPool        | 0.046               | 0.046                    |
+3. | org.apache.bcel.classfile.EnumElementValue    | 0.640               | 0.647                    |

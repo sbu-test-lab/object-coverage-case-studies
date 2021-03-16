@@ -1,0 +1,19 @@
+
+Class = [Parents...] 
+org.ta4j.core.indicators.helpers.GainIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.MMAIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.RecursiveCachedIndicator, org.ta4j.core.indicators.AbstractIndicator, org.ta4j.core.indicators.AbstractEMAIndicator]
+org.ta4j.core.indicators.helpers.ClosePriceIndicator=[org.ta4j.core.indicators.helpers.PriceIndicator, org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.LossIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.DPOIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.SMAIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.RSIIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+   _______________________________________________________________________________________________________
+   | Class                                               | Object line Coverage| Traditional line Coverage|
+   |======================================================================================================|
+1. | org.ta4j.core.indicators.DPOIndicator               | 0.219               | 0.667                    |
+2. | org.ta4j.core.indicators.helpers.ClosePriceIndicator| 0.164               | 1.000                    |
+3. | org.ta4j.core.indicators.helpers.GainIndicator      | 0.159               | 0.250                    |
+4. | org.ta4j.core.indicators.helpers.LossIndicator      | 0.159               | 0.250                    |
+5. | org.ta4j.core.indicators.MMAIndicator               | 0.179               | 1.000                    |
+6. | org.ta4j.core.indicators.RSIIndicator               | 0.149               | 0.250                    |
+7. | org.ta4j.core.indicators.SMAIndicator               | 0.154               | 0.300                    |

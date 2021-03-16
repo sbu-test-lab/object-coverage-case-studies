@@ -1,0 +1,12 @@
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Grid,15
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Grid,16
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Grid,17
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Grid,18
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Block,16
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Block,17
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Block,18
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Square,14
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Square,15
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Square,16
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Square,17
+org.jtetris.models.elements.Square::org.jtetris.models.elements.Square,18

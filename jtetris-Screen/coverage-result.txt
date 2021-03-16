@@ -1,0 +1,11 @@
+
+Class = [Parents...] 
+org.jtetris.models.elements.Screen=[org.jtetris.models.elements.Grid]
+org.jtetris.models.elements.T=[org.jtetris.models.elements.Polygon, org.jtetris.models.elements.Grid, org.jtetris.models.elements.Block]
+org.jtetris.models.elements.Grid=[]
+   _____________________________________________________________________________________
+   | Class                             | Object line Coverage| Traditional line Coverage|
+   |====================================================================================|
+1. | org.jtetris.models.elements.Grid  | 0.069               | 0.466                    |
+2. | org.jtetris.models.elements.Screen| 0.563               | 1.000                    |
+3. | org.jtetris.models.elements.T     | 0.137               | 1.000                    |

@@ -1,0 +1,21 @@
+
+Class = [Parents...] 
+com.google.common.graph.ElementOrder=[]
+com.google.common.graph.MapIteratorCache$1=[]
+com.google.common.graph.MapIteratorCache$1$1=[]
+com.google.common.graph.NetworkBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.ImmutableNetwork$Builder=[]
+com.google.common.graph.StandardMutableNetwork=[com.google.common.graph.StandardNetwork]
+com.google.common.graph.StandardNetwork=[]
+com.google.common.graph.ImmutableNetwork=[com.google.common.graph.StandardNetwork]
+   ___________________________________________________________________________________________________
+   | Class                                           | Object line Coverage| Traditional line Coverage|
+   |==================================================================================================|
+1. | com.google.common.graph.ElementOrder            | 0.280               | 0.280                    |
+2. | com.google.common.graph.ImmutableNetwork        | 0.326               | 0.667                    |
+3. | com.google.common.graph.ImmutableNetwork$Builder| 0.222               | 0.222                    |
+4. | com.google.common.graph.MapIteratorCache$1      | 0.600               | 0.600                    |
+5. | com.google.common.graph.MapIteratorCache$1$1    | 0.250               | 0.250                    |
+6. | com.google.common.graph.NetworkBuilder          | 1.000               | 1.000                    |
+7. | com.google.common.graph.StandardMutableNetwork  | 0.160               | 0.016                    |
+8. | com.google.common.graph.StandardNetwork         | 0.326               | 0.372                    |

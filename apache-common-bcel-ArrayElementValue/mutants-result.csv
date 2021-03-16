@@ -1,0 +1,7 @@
+"Mutant","Mutant Type","Status "," #Tests "," #Fails "
+"ArrayElementValue.java-IHI-1","IHI","killed","9","8"
+"ArrayElementValue.java-IHI-2","IHI","live","9","0"
+"ArrayElementValue.java-IOD-1","IOD","killed","9","1"
+"ArrayElementValue.java-IOI-1","IOI","live","9","0"
+"ArrayElementValue.java-IOI-2","IOI","live","9","0"
+"ArrayElementValue-IPC-1","IPC","live","9","0"

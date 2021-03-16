@@ -1,0 +1,7 @@
+   ____________________________________________________________________________________________
+   | Class                                    | Object line Coverage| Traditional line Coverage|
+   |===========================================================================================|
+1. | org.apache.bcel.classfile.Code           | 0.612               | 0.606                    |
+2. | org.apache.bcel.classfile.ConstantPool   | 0.019               | 0.019                    |
+3. | org.apache.bcel.classfile.EmptyVisitor   | 0.034               | 0.034                    |
+4. | org.apache.bcel.classfile.ModuleMainClass| 0.167               | 0.095                    |

@@ -1,0 +1,6 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.ta4j.core.indicators.RWIHighIndicator","0.352","0.125"
+"org.ta4j.core.indicators.helpers.ClosePriceIndicator","0.443","1.000"
+"org.ta4j.core.indicators.DPOIndicator","0.234","0.889"
+"org.ta4j.core.indicators.SMAIndicator","0.154","0.300"
+"org.ta4j.core.indicators.RWILowIndicator","0.352","0.125"

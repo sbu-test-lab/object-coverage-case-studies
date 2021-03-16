@@ -1,0 +1,23 @@
+
+Class = [Parents...] 
+org.apache.commons.collections4.map.AbstractLinkedMap$EntrySetIterator=[org.apache.commons.collections4.map.AbstractLinkedMap$LinkIterator]
+org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySet=[]
+org.apache.commons.collections4.map.LinkedMap=[org.apache.commons.collections4.map.AbstractLinkedMap, org.apache.commons.collections4.map.AbstractHashedMap]
+org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySetIterator=[]
+org.apache.commons.collections4.map.TransformedMap=[org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator, org.apache.commons.collections4.map.AbstractMapDecorator]
+org.apache.commons.collections4.map.AbstractLinkedMap$LinkEntry=[org.apache.commons.collections4.map.AbstractHashedMap$HashEntry]
+org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$MapEntry=[]
+org.apache.commons.collections4.map.AbstractHashedMap$EntrySet=[]
+org.apache.commons.collections4.map.TransformedSortedMap=[org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator, org.apache.commons.collections4.map.TransformedMap, org.apache.commons.collections4.map.AbstractMapDecorator]
+   ________________________________________________________________________________________________________________________________________
+   | Class                                                                                | Object line Coverage| Traditional line Coverage|
+   |=======================================================================================================================================|
+1. | org.apache.commons.collections4.map.AbstractHashedMap$EntrySet                       | 0.167               | 0.167                    |
+2. | org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySet        | 0.158               | 0.158                    |
+3. | org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySetIterator| 1.000               | 1.000                    |
+4. | org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$MapEntry        | 0.500               | 0.500                    |
+5. | org.apache.commons.collections4.map.AbstractLinkedMap$EntrySetIterator               | 0.325               | 0.750                    |
+6. | org.apache.commons.collections4.map.AbstractLinkedMap$LinkEntry                      | 0.375               | 1.000                    |
+7. | org.apache.commons.collections4.map.LinkedMap                                        | 0.216               | 0.045                    |
+8. | org.apache.commons.collections4.map.TransformedMap                                   | 0.100               | 0.484                    |
+9. | org.apache.commons.collections4.map.TransformedSortedMap                             | 0.507               | 1.000                    |

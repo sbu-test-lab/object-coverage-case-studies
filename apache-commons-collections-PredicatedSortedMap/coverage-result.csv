@@ -1,0 +1,5 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySet","0.158","0.158"
+"org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySetIterator","1.000","1.000"
+"org.apache.commons.collections4.map.PredicatedSortedMap","0.535","1.000"
+"org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$MapEntry","0.500","0.500"

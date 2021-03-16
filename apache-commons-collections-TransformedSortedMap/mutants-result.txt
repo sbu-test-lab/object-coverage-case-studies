@@ -1,0 +1,20 @@
+    _______________________________________________________________________________________
+    | Mutant                                     | Mutant Type| Status |  #Tests |  #Fails |
+    |======================================================================================|
+ 1. | AbstractInputCheckedMapDecorator.java-IPC-1| IPC        | killed | 26      | 26      |
+ 2. | AbstractMapDecorator.java-JDC-1            | JDC        | killed | 26      | 26      |
+ 3. | AbstractMapDecorator.java-JOD-1            | JOD        | live   | 26      | 0       |
+ 4. | AbstractMapDecorator.java-JOD-2            | JOD        | live   | 26      | 0       |
+ 5. | TransformedMap.java-IOD-1                  | IOD        | live   | 26      | 0       |
+ 6. | TransformedMap.java-IOD-2                  | IOD        | live   | 26      | 0       |
+ 7. | TransformedMap.java-IOD-3                  | IOD        | live   | 26      | 0       |
+ 8. | TransformedMap.java-IPC-1                  | IPC        | killed | 26      | 26      |
+ 9. | TransformedSortedMap.java-IHI-1            | IHI        | live   | 26      | 0       |
+10. | TransformedSortedMap.java-IOH-1            | IOH        | live   | 26      | 0       |
+11. | TransformedSortedMap.java-IOH-2            | IOH        | killed | 26      | 1       |
+12. | TransformedSortedMap.java-IOH-3            | IOH        | live   | 26      | 0       |
+13. | TransformedSortedMap.java-IOH-4            | IOH        | live   | 26      | 0       |
+14. | TransformedSortedMap.java-IOH-5            | IOH        | killed | 26      | 2       |
+15. | TransformedSortedMap.java-IOH-6            | IOH        | live   | 26      | 0       |
+
+Overall Result: 5 of 15 (33.33 percent) mutants killed

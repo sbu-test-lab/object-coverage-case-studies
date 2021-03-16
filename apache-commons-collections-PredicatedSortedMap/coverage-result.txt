@@ -1,0 +1,13 @@
+
+Class = [Parents...] 
+org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySet=[]
+org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySetIterator=[]
+org.apache.commons.collections4.map.PredicatedSortedMap=[org.apache.commons.collections4.map.PredicatedMap, org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator, org.apache.commons.collections4.map.AbstractMapDecorator]
+org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$MapEntry=[]
+   ________________________________________________________________________________________________________________________________________
+   | Class                                                                                | Object line Coverage| Traditional line Coverage|
+   |=======================================================================================================================================|
+1. | org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySet        | 0.158               | 0.158                    |
+2. | org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$EntrySetIterator| 1.000               | 1.000                    |
+3. | org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator$MapEntry        | 0.500               | 0.500                    |
+4. | org.apache.commons.collections4.map.PredicatedSortedMap                              | 0.535               | 1.000                    |

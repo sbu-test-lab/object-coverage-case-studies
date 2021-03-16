@@ -1,0 +1,3 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.apache.bcel.classfile.ArrayElementValue","0.686","0.741"
+"org.apache.bcel.classfile.ConstantPool","0.019","0.019"

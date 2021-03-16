@@ -1,0 +1,2 @@
+java -jar ../tools-jars/evosuite/evosuite-1.0.6.jar -class org.apache.commons.validator.routines.CalendarValidator -projectCP ../cases-jars/apache-validator/commons-validator-1.8-SNAPSHOT.jar;../cases-jars/apache-validator/commons-logging-1.2.jar;../cases-jars/apache-validator/commons-digester-2.1.jar;../cases-jars/apache-validator/commons-collections-3.2.2.jar;../cases-jars/apache-validator/commons-beanutils-1.9.4.jar;
+pause

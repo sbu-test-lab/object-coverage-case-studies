@@ -1,0 +1,15 @@
+    __________________________________________________________________________________
+    | Mutant                                | Mutant Type| Status |  #Tests |  #Fails |
+    |=================================================================================|
+ 1. | AbstractNumberValidatorAndParent-IPC-2| IPC        | killed | 7       | 1       |
+ 2. | BigDecimalValidator.java-JID-1        | JID        | live   | 7       | 0       |
+ 3. | BigDecimalValidator.java-PNC-1        | PNC        | live   | 7       | 0       |
+ 4. | BigDecimalValidator.java-PNC-1 (copy) | PNC        | live   | 7       | 0       |
+ 5. | PercentValidator.java-IHI-1           | IHI        | live   | 7       | 0       |
+ 6. | PercentValidator.java-IOP-1           | IOP        | killed | 7       | 1       |
+ 7. | PercentValidator.java-IPC-1           | IPC        | killed | 7       | 1       |
+ 8. | PercentValidator.java-JID-1           | JID        | killed | 7       | 1       |
+ 9. | PercentValidator.java-JID-2           | JID        | killed | 7       | 3       |
+10. | PercentValidator.java-org-1           | org        | live   | 7       | 0       |
+
+Overall Result: 5 of 10 (50.00 percent) mutants killed

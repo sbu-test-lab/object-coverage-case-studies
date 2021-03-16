@@ -1,0 +1,9 @@
+   __________________________________________________________________
+   | Mutant                | Mutant Type| Status |  #Tests |  #Fails |
+   |=================================================================|
+1. | Screen.java-IHI-1     | IHI        | live   | 9       | 0       |
+2. | Screen.java-IHI-2     | IHI        | killed | 9       | 4       |
+3. | Screen.java-IHI-3     | IHI        | killed | 9       | 2       |
+4. | Screen.java-original-0| original   | live   | 9       | 0       |
+
+Overall Result: 2 of 4 (50.00 percent) mutants killed

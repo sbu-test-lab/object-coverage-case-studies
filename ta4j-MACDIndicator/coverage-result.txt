@@ -1,0 +1,23 @@
+
+Class = [Parents...] 
+org.ta4j.core.indicators.MACDIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.EMAIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractEMAIndicator, org.ta4j.core.indicators.RecursiveCachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.MedianPriceIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.AwesomeOscillatorIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.ROCIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.ClosePriceIndicator=[org.ta4j.core.indicators.helpers.PriceIndicator, org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.helpers.HighPriceIndicator=[org.ta4j.core.indicators.helpers.PriceIndicator, org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.DPOIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+org.ta4j.core.indicators.SMAIndicator=[org.ta4j.core.indicators.CachedIndicator, org.ta4j.core.indicators.AbstractIndicator]
+   ________________________________________________________________________________________________________
+   | Class                                                | Object line Coverage| Traditional line Coverage|
+   |=======================================================================================================|
+1. | org.ta4j.core.indicators.AwesomeOscillatorIndicator  | 0.194               | 0.571                    |
+2. | org.ta4j.core.indicators.DPOIndicator                | 0.219               | 0.667                    |
+3. | org.ta4j.core.indicators.EMAIndicator                | 0.179               | 1.000                    |
+4. | org.ta4j.core.indicators.helpers.ClosePriceIndicator | 0.164               | 1.000                    |
+5. | org.ta4j.core.indicators.helpers.HighPriceIndicator  | 0.164               | 1.000                    |
+6. | org.ta4j.core.indicators.helpers.MedianPriceIndicator| 0.136               | 0.250                    |
+7. | org.ta4j.core.indicators.MACDIndicator               | 0.206               | 0.750                    |
+8. | org.ta4j.core.indicators.ROCIndicator                | 0.172               | 0.333                    |
+9. | org.ta4j.core.indicators.SMAIndicator                | 0.154               | 0.300                    |

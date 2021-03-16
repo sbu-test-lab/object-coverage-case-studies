@@ -1,0 +1,8 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.ta4j.core.indicators.helpers.GainIndicator","0.159","0.250"
+"org.ta4j.core.indicators.MMAIndicator","0.179","1.000"
+"org.ta4j.core.indicators.helpers.ClosePriceIndicator","0.164","1.000"
+"org.ta4j.core.indicators.helpers.LossIndicator","0.159","0.250"
+"org.ta4j.core.indicators.DPOIndicator","0.219","0.667"
+"org.ta4j.core.indicators.SMAIndicator","0.154","0.300"
+"org.ta4j.core.indicators.RSIIndicator","0.149","0.250"

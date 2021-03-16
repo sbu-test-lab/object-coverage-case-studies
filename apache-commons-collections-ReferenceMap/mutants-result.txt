@@ -1,0 +1,30 @@
+    ____________________________________________________________________________
+    | Mutant                          | Mutant Type| Status |  #Tests |  #Fails |
+    |===========================================================================|
+ 1. | AbstractReferenceMap.java-IHI-1 | IHI        | killed | 7       | 2       |
+ 2. | AbstractReferenceMap.java-IOD-1 | IOD        | live   | 7       | 0       |
+ 3. | AbstractReferenceMap.java-IOD-10| IOD        | live   | 7       | 0       |
+ 4. | AbstractReferenceMap.java-IOD-11| IOD        | live   | 7       | 0       |
+ 5. | AbstractReferenceMap.java-IOD-12| IOD        | live   | 7       | 0       |
+ 6. | AbstractReferenceMap.java-IOD-13| IOD        | live   | 7       | 0       |
+ 7. | AbstractReferenceMap.java-IOD-14| IOD        | live   | 7       | 0       |
+ 8. | AbstractReferenceMap.java-IOD-15| IOD        | live   | 7       | 0       |
+ 9. | AbstractReferenceMap.java-IOD-16| IOD        | live   | 7       | 0       |
+10. | AbstractReferenceMap.java-IOD-17| IOD        | live   | 7       | 0       |
+11. | AbstractReferenceMap.java-IOD-18| IOD        | live   | 7       | 0       |
+12. | AbstractReferenceMap.java-IOD-2 | IOD        | live   | 7       | 0       |
+13. | AbstractReferenceMap.java-IOD-3 | IOD        | live   | 7       | 0       |
+14. | AbstractReferenceMap.java-IOD-4 | IOD        | live   | 7       | 0       |
+15. | AbstractReferenceMap.java-IOD-5 | IOD        | live   | 7       | 0       |
+16. | AbstractReferenceMap.java-IOD-6 | IOD        | live   | 7       | 0       |
+17. | AbstractReferenceMap.java-IOD-7 | IOD        | live   | 7       | 0       |
+18. | AbstractReferenceMap.java-IOD-8 | IOD        | live   | 7       | 0       |
+19. | AbstractReferenceMap.java-IOD-9 | IOD        | live   | 7       | 0       |
+20. | AbstractReferenceMap.java-IPC-1 | IPC        | killed | 7       | 2       |
+21. | ReferenceMap.java-IHI-1         | IHI        | live   | 7       | 0       |
+22. | ReferenceMap.java-IHI-2         | IHI        | live   | 7       | 0       |
+23. | ReferenceMap.java-IHI-3         | IHI        | live   | 7       | 0       |
+24. | ReferenceMap.java-IHI-4         | IHI        | live   | 7       | 0       |
+25. | ReferenceMap.java-IHI-5         | IHI        | live   | 7       | 0       |
+
+Overall Result: 2 of 25 (8.00 percent) mutants killed

@@ -1,0 +1,15 @@
+    __________________________________________________________________________
+    | Mutant                        | Mutant Type| Status |  #Tests |  #Fails |
+    |=========================================================================|
+ 1. | AbstractIndicator.java-IOD-1  | IOD        | live   | 1       | 0       |
+ 2. | AbstractIndicator.java-PPD-1  | PPD        | live   | 1       | 0       |
+ 3. | CachedIndicator-IPC-1         | IPC        | live   | 1       | 0       |
+ 4. | CachedIndicator-IPC-2         | IPC        | live   | 1       | 0       |
+ 5. | ClosePriceIndicator.java-IHD-1| IHD        | live   | 1       | 0       |
+ 6. | ClosePriceIndicator.java-IPC-1| IPC        | live   | 1       | 0       |
+ 7. | ClosePriceIndicator-IPC-1     | IPC        | live   | 1       | 0       |
+ 8. | PriceIndicator.java-IHI-1     | IHI        | live   | 1       | 0       |
+ 9. | PriceIndicator.java-JTD-1     | JTD        | live   | 1       | 0       |
+10. | PriceIndicator-IPC-1          | IPC        | live   | 1       | 0       |
+
+Overall Result: 0 of 10 (0.00 percent) mutants killed

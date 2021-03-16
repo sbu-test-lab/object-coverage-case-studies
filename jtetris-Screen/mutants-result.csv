@@ -1,0 +1,5 @@
+"Mutant","Mutant Type","Status "," #Tests "," #Fails "
+"Screen.java-original-0","original","live","9","0"
+"Screen.java-IHI-3","IHI","killed","9","2"
+"Screen.java-IHI-1","IHI","live","9","0"
+"Screen.java-IHI-2","IHI","killed","9","4"

@@ -1,0 +1,22 @@
+    ___________________________________________________________________________
+    | Mutant                         | Mutant Type| Status |  #Tests |  #Fails |
+    |==========================================================================|
+ 1. | AbstractMapDecorator.java-JDC-1| JDC        | killed | 25      | 23      |
+ 2. | AbstractMapDecorator.java-JOD-1| JOD        | live   | 25      | 0       |
+ 3. | AbstractMapDecorator.java-JOD-2| JOD        | live   | 25      | 0       |
+ 4. | PredicatedMap.java-IOD-1       | IOD        | live   | 25      | 0       |
+ 5. | PredicatedMap.java-IOD-2       | IOD        | live   | 25      | 0       |
+ 6. | PredicatedMap.java-IOD-3       | IOD        | live   | 25      | 0       |
+ 7. | PredicatedMap.java-IPC-1       | IPC        | killed | 25      | 23      |
+ 8. | PredicatedMap.java-IPC-2       | IPC        | killed | 25      | 23      |
+ 9. | PredicatedSortedMap.java-IHI-1 | IHI        | live   | 25      | 0       |
+10. | PredicatedSortedMap.java-IHI-2 | IHI        | killed | 25      | 2       |
+11. | PredicatedSortedMap.java-IOH-1 | IOH        | killed | 25      | 1       |
+12. | PredicatedSortedMap.java-IOH-2 | IOH        | live   | 25      | 0       |
+13. | PredicatedSortedMap.java-IOH-3 | IOH        | live   | 25      | 0       |
+14. | PredicatedSortedMap.java-IOH-4 | IOH        | killed | 25      | 3       |
+15. | PredicatedSortedMap.java-IOH-5 | IOH        | killed | 25      | 3       |
+16. | PredicatedSortedMap.java-IOH-6 | IOH        | live   | 25      | 0       |
+17. | PredicatedSortedMap.java-IOH-7 | IOH        | live   | 25      | 0       |
+
+Overall Result: 7 of 17 (41.18 percent) mutants killed

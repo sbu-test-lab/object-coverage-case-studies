@@ -1,0 +1,15 @@
+
+Class = [Parents...] 
+com.google.common.graph.ElementOrder=[]
+com.google.common.graph.NetworkBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.StandardMutableNetwork=[com.google.common.graph.StandardNetwork, com.google.common.graph.AbstractNetwork]
+com.google.common.graph.StandardNetwork=[]
+com.google.common.graph.EndpointPair$Ordered=[com.google.common.graph.EndpointPair]
+   _________________________________________________________________________________________________
+   | Class                                         | Object line Coverage| Traditional line Coverage|
+   |================================================================================================|
+1. | com.google.common.graph.ElementOrder          | 0.280               | 0.280                    |
+2. | com.google.common.graph.EndpointPair$Ordered  | 0.259               | 0.133                    |
+3. | com.google.common.graph.NetworkBuilder        | 0.750               | 0.682                    |
+4. | com.google.common.graph.StandardMutableNetwork| 0.406               | 0.746                    |
+5. | com.google.common.graph.StandardNetwork       | 0.326               | 0.372                    |

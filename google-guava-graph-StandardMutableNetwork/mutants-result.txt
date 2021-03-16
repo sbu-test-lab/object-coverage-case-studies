@@ -1,0 +1,26 @@
+    _____________________________________________________________________________
+    | Mutant                           | Mutant Type| Status |  #Tests |  #Fails |
+    |============================================================================|
+ 1. | AbstractNetwork.java-IHI-1       | IHI        | live   | 16      | 0       |
+ 2. | AbstractNetwork.java-IHI-2       | IHI        | live   | 16      | 0       |
+ 3. | AbstractNetwork.java-IOD-1       | IOD        | live   | 16      | 0       |
+ 4. | AbstractNetwork.java-IOD-2       | IOD        | live   | 16      | 0       |
+ 5. | AbstractNetwork.java-IOD-3       | IOD        | live   | 16      | 0       |
+ 6. | StandardMutableNetwork.java-IHI-1| IHI        | killed | 16      | 9       |
+ 7. | StandardMutableNetwork.java-IHI-2| IHI        | killed | 16      | 5       |
+ 8. | StandardMutableNetwork.java-IHI-3| IHI        | killed | 16      | 10      |
+ 9. | StandardMutableNetwork.java-IOI-1| IOI        | live   | 16      | 0       |
+10. | StandardMutableNetwork.java-IOI-2| IOI        | live   | 16      | 0       |
+11. | StandardMutableNetwork.java-IOI-3| IOI        | live   | 16      | 0       |
+12. | StandardMutableNetwork.java-IOI-4| IOI        | live   | 16      | 0       |
+13. | StandardMutableNetwork.java-IOI-5| IOI        | killed | 16      | 2       |
+14. | StandardMutableNetwork-IPC-1     | IPC        | killed | 16      | 11      |
+15. | StandardMutableNetwork-IPC-2     | IPC        | killed | 16      | 15      |
+16. | StandardNetwork.java-IOD-1       | IOD        | live   | 16      | 0       |
+17. | StandardNetwork.java-IOI-1       | IOI        | live   | 16      | 0       |
+18. | StandardNetwork.java-IOI-2       | IOI        | live   | 16      | 0       |
+19. | StandardNetwork.java-IOI-3       | IOI        | live   | 16      | 0       |
+20. | StandardNetwork.java-IOI-4       | IOI        | live   | 16      | 0       |
+21. | StandardNetwork.java-IOI-5       | IOI        | live   | 16      | 0       |
+
+Overall Result: 6 of 21 (28.57 percent) mutants killed

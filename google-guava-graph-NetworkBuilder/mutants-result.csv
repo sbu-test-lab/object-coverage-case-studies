@@ -1,0 +1,8 @@
+"Mutant","Mutant Type","Status "," #Tests "," #Fails "
+"NetworkBuilder.java-IHI-1","IHI","killed","11","9"
+"NetworkBuilder.java-IHI-2","IHI","killed","11","1"
+"NetworkBuilder.java-IHI-3","IHI","live","11","0"
+"NetworkBuilder.java-IHI-4","IHI","killed","11","9"
+"NetworkBuilder.java-IHI-5","IHI","killed","11","9"
+"NetworkBuilder.java-IHI-6","IHI","killed","11","9"
+"NetworkBuilder-IPC-1","IPC","killed","11","1"

@@ -1,0 +1,7 @@
+
+Class = [Parents...] 
+org.jtetris.models.elements.S=[org.jtetris.models.elements.Polygon, org.jtetris.models.elements.Grid, org.jtetris.models.elements.Block]
+   ________________________________________________________________________________
+   | Class                        | Object line Coverage| Traditional line Coverage|
+   |===============================================================================|
+1. | org.jtetris.models.elements.S| 0.137               | 1.000                    |

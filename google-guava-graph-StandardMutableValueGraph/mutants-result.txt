@@ -1,0 +1,27 @@
+    ________________________________________________________________________________
+    | Mutant                              | Mutant Type| Status |  #Tests |  #Fails |
+    |===============================================================================|
+ 1. | AbstractBaseGraph.java-IPD-1        | IPD        | killed | 19      | 3       |
+ 2. | AbstractBaseGraph.java-IPD-2        | IPD        | killed | 19      | 2       |
+ 3. | AbstractValueGraph.java-IOD-1       | IOD        | live   | 19      | 0       |
+ 4. | AbstractValueGraph.java-IOI-1       | IOI        | live   | 19      | 0       |
+ 5. | AbstractValueGraph.java-IOI-2       | IOI        | live   | 19      | 0       |
+ 6. | AbstractValueGraph.java-IOI-3       | IOI        | live   | 19      | 0       |
+ 7. | AbstractValueGraph.java-IOI-4       | IOI        | live   | 19      | 0       |
+ 8. | AbstractValueGraph.java-JOD-1       | JOD        | live   | 19      | 0       |
+ 9. | AbstractValueGraph.java-JOD-2       | JOD        | live   | 19      | 0       |
+10. | StandardMutableValueGraph.java-IHI-1| IHI        | killed | 19      | 7       |
+11. | StandardMutableValueGraph.java-IHI-2| IHI        | live   | 19      | 0       |
+12. | StandardMutableValueGraph.java-IOD-1| IOD        | live   | 19      | 0       |
+13. | StandardMutableValueGraph-IPC-1     | IPC        | killed | 19      | 10      |
+14. | StandardValueGraph.java-IOD-1       | IOD        | live   | 19      | 0       |
+15. | StandardValueGraph.java-IOD-2       | IOD        | live   | 19      | 0       |
+16. | StandardValueGraph.java-IOD-3       | IOD        | live   | 19      | 0       |
+17. | StandardValueGraph.java-IOD-4       | IOD        | live   | 19      | 0       |
+18. | StandardValueGraph.java-IOD-5       | IOD        | live   | 19      | 0       |
+19. | StandardValueGraph.java-IOD-6       | IOD        | live   | 19      | 0       |
+20. | StandardValueGraph.java-IOI-1       | IOI        | live   | 19      | 0       |
+21. | StandardValueGraph.java-IOI-2       | IOI        | live   | 19      | 0       |
+22. | StandardValueGraph.java-IOI-3       | IOI        | live   | 19      | 0       |
+
+Overall Result: 4 of 22 (18.18 percent) mutants killed

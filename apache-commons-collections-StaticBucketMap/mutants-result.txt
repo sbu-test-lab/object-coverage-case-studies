@@ -1,0 +1,9 @@
+   ______________________________________________________________________
+   | Mutant                    | Mutant Type| Status |  #Tests |  #Fails |
+   |=====================================================================|
+1. | StaticBucketMap.java-IOD-1| IOD        | killed | 15      | 1       |
+2. | StaticBucketMap.java-IOD-2| IOD        | killed | 15      | 1       |
+3. | StaticBucketMap.java-IOD-3| IOD        | killed | 15      | 1       |
+4. | StaticBucketMap.java-JDC-1| JDC        | killed | 15      | 6       |
+
+Overall Result: 4 of 4 (100.00 percent) mutants killed

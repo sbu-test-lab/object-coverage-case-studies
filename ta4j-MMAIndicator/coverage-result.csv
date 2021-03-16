@@ -1,0 +1,3 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.ta4j.core.indicators.MMAIndicator","0.179","1.000"
+"org.ta4j.core.indicators.helpers.ClosePriceIndicator","0.164","1.000"

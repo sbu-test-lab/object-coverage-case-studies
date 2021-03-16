@@ -1,0 +1,12 @@
+   __________________________________________________________________
+   | Mutant                | Mutant Type| Status |  #Tests |  #Fails |
+   |=================================================================|
+1. | Square.java-IHI-1     | IHI        | live   | 1       | 0       |
+2. | Square.java-IHI-2     | IHI        | killed | 1       | 1       |
+3. | Square.java-IHI-3     | IHI        | live   | 1       | 0       |
+4. | Square.java-IHI-4     | IHI        | killed | 1       | 1       |
+5. | Square.java-IHI-5     | IHI        | live   | 1       | 0       |
+6. | Square.java-IHI-6     | IHI        | live   | 1       | 0       |
+7. | Square.java-original-0| original   | live   | 1       | 0       |
+
+Overall Result: 2 of 7 (28.57 percent) mutants killed

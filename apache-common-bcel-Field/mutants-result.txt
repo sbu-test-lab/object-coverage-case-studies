@@ -1,0 +1,17 @@
+    ____________________________________________________________________
+    | Mutant                  | Mutant Type| Status |  #Tests |  #Fails |
+    |===================================================================|
+ 1. | Field.java-IHI-1        | IHI        | live   | 20      | 0       |
+ 2. | Field.java-IHI-2        | IHI        | live   | 20      | 0       |
+ 3. | Field.java-IHI-3        | IHI        | live   | 20      | 0       |
+ 4. | Field.java-IHI-4        | IHI        | live   | 20      | 0       |
+ 5. | Field.java-IHI-5        | IHI        | live   | 20      | 0       |
+ 6. | Field.java-IOD-1        | IOD        | killed | 20      | 2       |
+ 7. | Field.java-IOD-2        | IOD        | killed | 20      | 1       |
+ 8. | Field.java-IOD-3        | IOD        | killed | 20      | 1       |
+ 9. | Field.java-IPC-1        | IPC        | killed | 20      | 2       |
+10. | Field.java-IPC-2        | IPC        | killed | 20      | 3       |
+11. | Field.java-IPC-3        | IPC        | killed | 20      | 8       |
+12. | FieldOrMethod.java-IPC-1| IPC        | killed | 20      | 1       |
+
+Overall Result: 7 of 12 (58.33 percent) mutants killed

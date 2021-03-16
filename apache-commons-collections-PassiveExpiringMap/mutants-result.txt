@@ -1,0 +1,21 @@
+    ___________________________________________________________________________
+    | Mutant                         | Mutant Type| Status |  #Tests |  #Fails |
+    |==========================================================================|
+ 1. | AbstractMapDecorator.java-JDC-1| JDC        | killed | 31      | 24      |
+ 2. | AbstractMapDecorator.java-JOD-1| JOD        | live   | 31      | 0       |
+ 3. | AbstractMapDecorator.java-JOD-2| JOD        | killed | 31      | 3       |
+ 4. | AbstractMapDecorator.java-JOD-3| JOD        | killed | 31      | 3       |
+ 5. | AbstractMapDecorator.java-JOD-4| JOD        | live   | 31      | 0       |
+ 6. | PassiveExpiringMap.java-IHI-1  | IHI        | killed | 31      | 1       |
+ 7. | PassiveExpiringMap.java-IOD-1  | IOD        | live   | 31      | 0       |
+ 8. | PassiveExpiringMap.java-IOD-2  | IOD        | live   | 31      | 0       |
+ 9. | PassiveExpiringMap.java-IOD-3  | IOD        | killed | 31      | 1       |
+10. | PassiveExpiringMap.java-IOD-4  | IOD        | live   | 31      | 0       |
+11. | PassiveExpiringMap.java-IOD-5  | IOD        | live   | 31      | 0       |
+12. | PassiveExpiringMap.java-IOD-6  | IOD        | killed | 31      | 1       |
+13. | PassiveExpiringMap.java-IOD-7  | IOD        | killed | 31      | 1       |
+14. | PassiveExpiringMap.java-IOD-8  | IOD        | live   | 31      | 0       |
+15. | PassiveExpiringMap.java-JOD-1  | JOD        | live   | 31      | 0       |
+16. | PassiveExpiringMap.java-org-1  | org        | live   | 31      | 0       |
+
+Overall Result: 7 of 16 (43.75 percent) mutants killed

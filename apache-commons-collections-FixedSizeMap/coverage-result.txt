@@ -1,0 +1,7 @@
+
+Class = [Parents...] 
+org.apache.commons.collections4.map.FixedSizeMap=[org.apache.commons.collections4.map.AbstractMapDecorator]
+   ___________________________________________________________________________________________________
+   | Class                                           | Object line Coverage| Traditional line Coverage|
+   |==================================================================================================|
+1. | org.apache.commons.collections4.map.FixedSizeMap| 0.531               | 0.769                    |

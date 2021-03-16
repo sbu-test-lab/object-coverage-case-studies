@@ -1,0 +1,21 @@
+    ___________________________________________________________________________
+    | Mutant                         | Mutant Type| Status |  #Tests |  #Fails |
+    |==========================================================================|
+ 1. | AbstractMapDecorator.java-JDC-1| JDC        | killed | 22      | 20      |
+ 2. | AbstractMapDecorator.java-JOD-1| JOD        | killed | 22      | 1       |
+ 3. | AbstractMapDecorator.java-JOD-2| JOD        | live   | 22      | 0       |
+ 4. | AbstractMapDecorator.java-JOD-3| JOD        | killed | 22      | 1       |
+ 5. | AbstractMapDecorator.java-JOD-4| JOD        | live   | 22      | 0       |
+ 6. | AbstractMapDecorator.java-POH-1| POH        | live   | 22      | 0       |
+ 7. | LazyMap.java-IOD-1             | IOD        | live   | 22      | 0       |
+ 8. | LazySortedMap.java-IHI-1       | IHI        | killed | 22      | 3       |
+ 9. | LazySortedMap.java-POH-1       | POH        | live   | 22      | 0       |
+10. | LazySortedMap.java-POH-2       | POH        | live   | 22      | 0       |
+11. | LazySortedMap.java-POH-3       | POH        | live   | 22      | 0       |
+12. | LazySortedMap.java-POH-4       | POH        | live   | 22      | 0       |
+13. | LazySortedMap.java-POH-5       | POH        | killed | 22      | 1       |
+14. | LazySortedMap.java-POH-6       | POH        | killed | 22      | 1       |
+15. | LazySortedMap.java-POH-7       | POH        | live   | 22      | 0       |
+16. | LazySortedMap.java-POH-7 (copy)| POH        | live   | 22      | 0       |
+
+Overall Result: 6 of 16 (37.50 percent) mutants killed

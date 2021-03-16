@@ -1,0 +1,20 @@
+    __________________________________________________________________________
+    | Mutant                        | Mutant Type| Status |  #Tests |  #Fails |
+    |=========================================================================|
+ 1. | AbstractIndicator.java-IOD-1..| IOD        | live   | 7       | 0       |
+ 2. | AbstractIndicator.java-PPD-1..| PPD        | live   | 7       | 0       |
+ 3. | CachedIndicator.java-IHI-1..  | IHI        | live   | 7       | 0       |
+ 4. | CachedIndicator-IPC-1         | IPC        | killed | 7       | 4       |
+ 5. | CachedIndicator-IPC-2         | IPC        | killed | 7       | 1       |
+ 6. | DPOIndicator.java-IHI-1..     | IHI        | live   | 7       | 0       |
+ 7. | DPOIndicator.java-IOD-1..     | IOD        | killed | 7       | 1       |
+ 8. | DPOIndicator.java-IOI-1       | IOI        | live   | 7       | 0       |
+ 9. | DPOIndicator.java-IOI-2       | IOI        | live   | 7       | 0       |
+10. | DPOIndicator.java-IOI-3       | IOI        | live   | 7       | 0       |
+11. | DPOIndicator.java-JTD-1..     | JTD        | killed | 7       | 1       |
+12. | DPOIndicator.java-JTD-2..     | JTD        | killed | 7       | 5       |
+13. | DPOIndicator.java-PNC-1..     | PNC        | live   | 7       | 0       |
+14. | DPOIndicator-IPC-1            | IPC        | live   | 7       | 0       |
+15. | DPOIndicator-PMD-1            | PMD        | live   | 7       | 0       |
+
+Overall Result: 5 of 15 (33.33 percent) mutants killed

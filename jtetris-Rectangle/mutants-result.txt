@@ -1,0 +1,15 @@
+    _____________________________________________________________________
+    | Mutant                   | Mutant Type| Status |  #Tests |  #Fails |
+    |====================================================================|
+ 1. | Rectangle.java-IHI-1     | IHI        | live   | 2       | 0       |
+ 2. | Rectangle.java-IHI-2     | IHI        | killed | 2       | 1       |
+ 3. | Rectangle.java-IHI-3     | IHI        | live   | 2       | 0       |
+ 4. | Rectangle.java-IHI-4     | IHI        | live   | 2       | 0       |
+ 5. | Rectangle.java-IHI-5     | IHI        | live   | 2       | 0       |
+ 6. | Rectangle.java-IOD-1     | IOD        | killed | 2       | 1       |
+ 7. | Rectangle.java-original-0| original   | live   | 2       | 0       |
+ 8. | Rectangle.java-PNC-1     | PNC        | live   | 2       | 0       |
+ 9. | Rectangle.java-PNC-2     | PNC        | live   | 2       | 0       |
+10. | RectangleAndParents-IPC-1| IPC        | killed | 2       | 1       |
+
+Overall Result: 3 of 10 (30.00 percent) mutants killed

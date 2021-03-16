@@ -1,0 +1,17 @@
+
+Class = [Parents...] 
+org.apache.bcel.classfile.Field=[org.apache.bcel.classfile.FieldOrMethod, org.apache.bcel.classfile.AccessFlags]
+org.apache.bcel.classfile.EmptyVisitor=[]
+org.apache.bcel.classfile.JavaClass$1=[]
+org.apache.bcel.classfile.Constant$1=[]
+org.apache.bcel.classfile.ConstantPool=[]
+org.apache.bcel.classfile.ClassFormatException=[]
+   _________________________________________________________________________________________________
+   | Class                                         | Object line Coverage| Traditional line Coverage|
+   |================================================================================================|
+1. | org.apache.bcel.classfile.ClassFormatException| 0.333               | 0.333                    |
+2. | org.apache.bcel.classfile.Constant$1          | 0.200               | 0.200                    |
+3. | org.apache.bcel.classfile.ConstantPool        | 0.139               | 0.139                    |
+4. | org.apache.bcel.classfile.EmptyVisitor        | 0.034               | 0.034                    |
+5. | org.apache.bcel.classfile.Field               | 0.276               | 0.462                    |
+6. | org.apache.bcel.classfile.JavaClass$1         | 0.200               | 0.200                    |

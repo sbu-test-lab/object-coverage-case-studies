@@ -1,0 +1,5 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.apache.commons.collections4.map.StaticBucketMap","0.817","0.815"
+"org.apache.commons.collections4.map.StaticBucketMap$Node","0.467","0.467"
+"org.apache.commons.collections4.map.StaticBucketMap$EntryIterator","0.760","1.000"
+"org.apache.commons.collections4.map.StaticBucketMap$EntrySet","0.087","0.087"

@@ -1,0 +1,25 @@
+
+Class = [Parents...] 
+com.google.common.graph.ElementOrder=[]
+com.google.common.graph.StandardMutableValueGraph=[com.google.common.graph.StandardValueGraph]
+com.google.common.graph.ValueGraphBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.StandardMutableGraph=[com.google.common.graph.AbstractBaseGraph, com.google.common.graph.AbstractGraph, com.google.common.graph.ForwardingGraph]
+com.google.common.graph.NetworkBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.StandardMutableNetwork=[com.google.common.graph.StandardNetwork]
+com.google.common.graph.StandardValueGraph=[com.google.common.graph.AbstractBaseGraph, com.google.common.graph.AbstractValueGraph]
+com.google.common.graph.EndpointPair$Unordered=[com.google.common.graph.EndpointPair]
+com.google.common.graph.GraphBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.EndpointPair$Ordered=[com.google.common.graph.EndpointPair]
+    ____________________________________________________________________________________________________
+    | Class                                            | Object line Coverage| Traditional line Coverage|
+    |===================================================================================================|
+ 1. | com.google.common.graph.ElementOrder             | 0.320               | 0.320                    |
+ 2. | com.google.common.graph.EndpointPair$Ordered     | 0.259               | 0.133                    |
+ 3. | com.google.common.graph.EndpointPair$Unordered   | 0.172               | 0.118                    |
+ 4. | com.google.common.graph.GraphBuilder             | 0.233               | 0.042                    |
+ 5. | com.google.common.graph.NetworkBuilder           | 0.429               | 0.273                    |
+ 6. | com.google.common.graph.StandardMutableGraph     | 0.233               | 1.000                    |
+ 7. | com.google.common.graph.StandardMutableNetwork   | 0.104               | 0.016                    |
+ 8. | com.google.common.graph.StandardMutableValueGraph| 0.594               | 0.769                    |
+ 9. | com.google.common.graph.StandardValueGraph       | 0.141               | 0.306                    |
+10. | com.google.common.graph.ValueGraphBuilder        | 0.600               | 0.500                    |

@@ -1,0 +1,9 @@
+
+Class = [Parents...] 
+org.apache.commons.collections4.map.PassiveExpiringMap=[org.apache.commons.collections4.map.AbstractMapDecorator]
+org.apache.commons.collections4.map.PassiveExpiringMap$ConstantTimeToLiveExpirationPolicy=[]
+   ____________________________________________________________________________________________________________________________________________
+   | Class                                                                                    | Object line Coverage| Traditional line Coverage|
+   |===========================================================================================================================================|
+1. | org.apache.commons.collections4.map.PassiveExpiringMap                                   | 0.847               | 0.903                    |
+2. | org.apache.commons.collections4.map.PassiveExpiringMap$ConstantTimeToLiveExpirationPolicy| 0.900               | 0.900                    |

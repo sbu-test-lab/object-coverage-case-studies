@@ -1,0 +1,7 @@
+
+Class = [Parents...] 
+org.jtetris.models.elements.Square=[org.jtetris.models.elements.Grid, org.jtetris.models.elements.Block]
+   _____________________________________________________________________________________
+   | Class                             | Object line Coverage| Traditional line Coverage|
+   |====================================================================================|
+1. | org.jtetris.models.elements.Square| 0.138               | 1.000                    |

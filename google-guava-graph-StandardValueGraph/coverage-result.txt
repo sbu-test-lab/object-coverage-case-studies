@@ -1,0 +1,35 @@
+
+Class = [Parents...] 
+com.google.common.graph.ElementOrder=[]
+com.google.common.graph.AbstractBaseGraph$1=[]
+com.google.common.graph.StandardMutableGraph=[com.google.common.graph.AbstractBaseGraph, com.google.common.graph.AbstractGraph, com.google.common.graph.ForwardingGraph]
+com.google.common.graph.NetworkBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.ImmutableGraph=[com.google.common.graph.ForwardingGraph]
+com.google.common.graph.EndpointPair$Unordered=[com.google.common.graph.EndpointPair]
+com.google.common.graph.GraphBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.StandardMutableValueGraph=[com.google.common.graph.AbstractBaseGraph, com.google.common.graph.StandardValueGraph, com.google.common.graph.AbstractValueGraph]
+com.google.common.graph.ValueGraphBuilder=[com.google.common.graph.AbstractGraphBuilder]
+com.google.common.graph.MapIteratorCache$1=[]
+com.google.common.graph.MapIteratorCache$1$1=[]
+com.google.common.graph.StandardNetwork=[]
+com.google.common.graph.StandardValueGraph=[com.google.common.graph.AbstractBaseGraph, com.google.common.graph.AbstractValueGraph]
+com.google.common.graph.ImmutableValueGraph=[com.google.common.graph.StandardValueGraph]
+com.google.common.graph.EndpointPair$Ordered=[com.google.common.graph.EndpointPair]
+    ____________________________________________________________________________________________________
+    | Class                                            | Object line Coverage| Traditional line Coverage|
+    |===================================================================================================|
+ 1. | com.google.common.graph.AbstractBaseGraph$1      | 0.100               | 0.100                    |
+ 2. | com.google.common.graph.ElementOrder             | 0.320               | 0.320                    |
+ 3. | com.google.common.graph.EndpointPair$Ordered     | 0.259               | 0.133                    |
+ 4. | com.google.common.graph.EndpointPair$Unordered   | 0.241               | 0.118                    |
+ 5. | com.google.common.graph.GraphBuilder             | 0.600               | 0.500                    |
+ 6. | com.google.common.graph.ImmutableGraph           | 0.238               | 0.800                    |
+ 7. | com.google.common.graph.ImmutableValueGraph      | 0.250               | 0.250                    |
+ 8. | com.google.common.graph.MapIteratorCache$1       | 0.600               | 0.600                    |
+ 9. | com.google.common.graph.MapIteratorCache$1$1     | 0.250               | 0.250                    |
+10. | com.google.common.graph.NetworkBuilder           | 0.750               | 0.682                    |
+11. | com.google.common.graph.StandardMutableGraph     | 0.151               | 0.273                    |
+12. | com.google.common.graph.StandardMutableValueGraph| 0.200               | 0.046                    |
+13. | com.google.common.graph.StandardNetwork          | 0.326               | 0.326                    |
+14. | com.google.common.graph.StandardValueGraph       | 0.435               | 0.917                    |
+15. | com.google.common.graph.ValueGraphBuilder        | 0.600               | 0.500                    |

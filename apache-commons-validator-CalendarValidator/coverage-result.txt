@@ -1,0 +1,7 @@
+
+Class = [Parents...] 
+org.apache.commons.validator.routines.CalendarValidator=[org.apache.commons.validator.routines.AbstractCalendarValidator, org.apache.commons.validator.routines.AbstractFormatValidator]
+   __________________________________________________________________________________________________________
+   | Class                                                  | Object line Coverage| Traditional line Coverage|
+   |=========================================================================================================|
+1. | org.apache.commons.validator.routines.CalendarValidator| 0.645               | 1.000                    |

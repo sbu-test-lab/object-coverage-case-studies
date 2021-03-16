@@ -1,0 +1,16 @@
+    ____________________________________________________________________________________
+    | Mutant                                  | Mutant Type| Status |  #Tests |  #Fails |
+    |===================================================================================|
+ 1. | ReverseL.java-IHI-1                     | IHI        | live   | 1       | 0       |
+ 2. | ReverseL.java-IHI-2                     | IHI        | live   | 1       | 0       |
+ 3. | ReverseL.java-IHI-3                     | IHI        | killed | 1       | 1       |
+ 4. | ReverseL.java-IHI-4                     | IHI        | live   | 1       | 0       |
+ 5. | ReverseL.java-IHI-5                     | IHI        | live   | 1       | 0       |
+ 6. | ReverseL.java-IHI-6                     | IHI        | live   | 1       | 0       |
+ 7. | ReverseL.java-IHI-7                     | IHI        | live   | 1       | 0       |
+ 8. | ReverseL.java-org-1                     | org        | live   | 1       | 0       |
+ 9. | ReverseLwithPolygonAndOtherParents-IPC-1| IPC        | live   | 1       | 0       |
+10. | ReverseLwithPolygon-IOD-1               | IOD        | live   | 1       | 0       |
+11. | ReverseLwithPolygon-IOR-1               | IOR        | live   | 1       | 0       |
+
+Overall Result: 1 of 11 (9.09 percent) mutants killed

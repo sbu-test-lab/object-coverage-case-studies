@@ -1,0 +1,4 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.ta4j.core.indicators.ATRIndicator","0.136","0.500"
+"org.ta4j.core.indicators.MMAIndicator","0.179","1.000"
+"org.ta4j.core.indicators.helpers.TRIndicator","0.127","0.125"

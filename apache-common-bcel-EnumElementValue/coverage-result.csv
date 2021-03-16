@@ -1,0 +1,4 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.apache.bcel.classfile.EnumElementValue","0.640","0.647"
+"org.apache.bcel.classfile.ConstantPool","0.046","0.046"
+"org.apache.bcel.classfile.ClassFormatException","0.333","0.333"

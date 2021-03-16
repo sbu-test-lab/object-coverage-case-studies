@@ -1,0 +1,15 @@
+
+Class = [Parents...] 
+com.google.common.graph.ElementOrder=[]
+com.google.common.graph.StandardMutableValueGraph=[com.google.common.graph.StandardValueGraph]
+com.google.common.graph.ImmutableGraph$Builder=[]
+com.google.common.graph.StandardMutableGraph=[com.google.common.graph.ForwardingGraph]
+com.google.common.graph.GraphBuilder=[com.google.common.graph.AbstractGraphBuilder]
+   ____________________________________________________________________________________________________
+   | Class                                            | Object line Coverage| Traditional line Coverage|
+   |===================================================================================================|
+1. | com.google.common.graph.ElementOrder             | 0.440               | 0.440                    |
+2. | com.google.common.graph.GraphBuilder             | 0.967               | 0.958                    |
+3. | com.google.common.graph.ImmutableGraph$Builder   | 0.222               | 0.222                    |
+4. | com.google.common.graph.StandardMutableGraph     | 0.259               | 0.273                    |
+5. | com.google.common.graph.StandardMutableValueGraph| 0.129               | 0.046                    |

@@ -1,0 +1,19 @@
+    __________________________________________________________________________________
+    | Mutant                                | Mutant Type| Status |  #Tests |  #Fails |
+    |=================================================================================|
+ 1. | AbstractMapDecorator.java-JOD-1       | JOD        | live   | 18      | 0       |
+ 2. | AbstractMapDecorator.java-JOD-1 (copy)| JOD        | killed | 18      | 14      |
+ 3. | AbstractMapDecorator.java-JOD-2       | JOD        | killed | 18      | 1       |
+ 4. | AbstractMapDecorator.java-JOD-3       | JOD        | killed | 18      | 1       |
+ 5. | AbstractMapDecorator.java-JOD-4       | JOD        | live   | 18      | 0       |
+ 6. | FixedSizeMap.java-IHI-1               | IHI        | killed | 18      | 10      |
+ 7. | FixedSizeMap.java-IOD-1               | IOD        | killed | 18      | 1       |
+ 8. | FixedSizeMap.java-IOD-2               | IOD        | killed | 18      | 2       |
+ 9. | FixedSizeMap.java-IOD-3               | IOD        | killed | 18      | 1       |
+10. | FixedSizeMap.java-IOD-4               | IOD        | killed | 18      | 1       |
+11. | FixedSizeMap.java-IOD-5               | IOD        | live   | 18      | 0       |
+12. | FixedSizeMap.java-IOD-6               | IOD        | live   | 18      | 0       |
+13. | FixedSizeMap.java-IOD-7               | IOD        | live   | 18      | 0       |
+14. | FixedSizeMap.java-IPC-1               | IPC        | killed | 18      | 14      |
+
+Overall Result: 9 of 14 (64.29 percent) mutants killed

@@ -1,0 +1,9 @@
+
+Class = [Parents...] 
+org.jtetris.models.elements.Rectangle=[org.jtetris.models.elements.Grid, org.jtetris.models.elements.Block]
+org.jtetris.models.elements.Grid=[]
+   ________________________________________________________________________________________
+   | Class                                | Object line Coverage| Traditional line Coverage|
+   |=======================================================================================|
+1. | org.jtetris.models.elements.Grid     | 0.069               | 0.069                    |
+2. | org.jtetris.models.elements.Rectangle| 0.235               | 1.000                    |

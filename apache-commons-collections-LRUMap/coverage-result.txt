@@ -1,0 +1,9 @@
+   _________________________________________________________________________________________________________________________
+   | Class                                                                 | Object line Coverage| Traditional line Coverage|
+   |========================================================================================================================|
+1. | org.apache.commons.collections4.map.AbstractHashedMap                 | 0.062               | 0.413                    |
+2. | org.apache.commons.collections4.map.AbstractHashedMap$EntrySet        | 0.167               | 0.167                    |
+3. | org.apache.commons.collections4.map.AbstractHashedMap$HashEntry       | 0.217               | 0.478                    |
+4. | org.apache.commons.collections4.map.AbstractLinkedMap$EntrySetIterator| 0.325               | 0.750                    |
+5. | org.apache.commons.collections4.map.AbstractLinkedMap$LinkEntry       | 0.500               | 1.000                    |
+6. | org.apache.commons.collections4.map.LRUMap                            | 0.438               | 0.642                    |

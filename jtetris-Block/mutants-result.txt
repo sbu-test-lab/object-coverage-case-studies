@@ -1,0 +1,11 @@
+   ________________________________________________________________________________________________________________
+   | Mutant                                         | Mutant Type                     | Status |  #Tests |  #Fails |
+   |===============================================================================================================|
+1. | Block.java-IHI-1                               | IHI                             | killed | 20      | 4       |
+2. | Block.java-IHI-2                               | IHI                             | killed | 20      | 7       |
+3. | Block.java-IHI-3                               | IHI                             | killed | 20      | 9       |
+4. | Block.java-IHI-4                               | IHI                             | killed | 20      | 5       |
+5. | Block.java-original-0                          | original                        | live   | 20      | 0       |
+6. | BlockAndGrid-Inhe-parent-constructor-deletion-1| Inhe-parent-constructor-deletion| killed | 20      | 14      |
+
+Overall Result: 5 of 6 (83.33 percent) mutants killed

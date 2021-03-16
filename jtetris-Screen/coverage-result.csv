@@ -1,0 +1,4 @@
+"Class","Object line Coverage","Traditional line Coverage"
+"org.jtetris.models.elements.Screen","0.563","1.000"
+"org.jtetris.models.elements.T","0.137","1.000"
+"org.jtetris.models.elements.Grid","0.069","0.466"

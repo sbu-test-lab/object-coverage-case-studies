@@ -1,0 +1,18 @@
+    ____________________________________________________________________________
+    | Mutant                          | Mutant Type| Status |  #Tests |  #Fails |
+    |===========================================================================|
+ 1. | Constant.java-IOD-1             | IOD        | live   | 12      | 0       |
+ 2. | Constant.java-JOD-1             | JOD        | live   | 12      | 0       |
+ 3. | Constant.java-JOD-2             | JOD        | live   | 12      | 0       |
+ 4. | ConstantCP.java-IHI-1           | IHI        | live   | 12      | 0       |
+ 5. | ConstantCP.java-IOD-1           | IOD        | killed | 12      | 1       |
+ 6. | ConstantCP.java-IOI-1           | IOI        | live   | 12      | 0       |
+ 7. | ConstantCP.java-JTD-1           | JTD        | killed | 12      | 5       |
+ 8. | ConstantCP-IPC-1                | IPC        | killed | 12      | 1       |
+ 9. | ConstantFieldref-IPC-1          | IPC        | killed | 12      | 5       |
+10. | ConstantInvokeDynamic.java-IHI-1| IHI        | live   | 12      | 0       |
+11. | ConstantInvokeDynamic.java-IHI-2| IHI        | live   | 12      | 0       |
+12. | ConstantInvokeDynamic.java-IHI-3| IHI        | live   | 12      | 0       |
+13. | ConstantInvokeDynamic.java-IOD-1| IOD        | killed | 12      | 1       |
+
+Overall Result: 5 of 13 (38.46 percent) mutants killed
