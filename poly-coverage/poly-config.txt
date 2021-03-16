@@ -1,1 +1,2 @@
-org.jtetris.models.elements.Rectangle:../jtetris-Rectangle/oocov-covered-lines.csv
+
+org.jtetris.models.elements.Block:../jtetris-Block/oocov-covered-lines.csv
