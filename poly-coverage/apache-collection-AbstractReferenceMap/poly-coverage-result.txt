@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.054
+class: AbstractReferenceMap
+class (namespaced): org.apache.commons.collections4.map.AbstractReferenceMap
+descendents class: ReferenceMap
+descendents class (namespaced): org.apache.commons.collections4.map.ReferenceMap

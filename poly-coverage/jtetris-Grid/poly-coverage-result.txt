@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.244
+class: Grid
+class (namespaced): org.jtetris.models.elements.Grid
+descendents class: Screen, S, ReverseL, Rectangle, Square, Block
+descendents class (namespaced): org.jtetris.models.elements.Screen, org.jtetris.models.elements.S, org.jtetris.models.elements.ReverseL, org.jtetris.models.elements.Rectangle, org.jtetris.models.elements.Square, org.jtetris.models.elements.Block

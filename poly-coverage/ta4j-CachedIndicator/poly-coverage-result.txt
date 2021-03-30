@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.111
+class: CachedIndicator
+class (namespaced): org.ta4j.core.indicators.CachedIndicator
+descendents class: ATRIndicator, RWIHighIndicator, MACDIndicator, MMAIndicator, ClosePriceIndicator, DPOIndicator, SMAIndicator
+descendents class (namespaced): org.ta4j.core.indicators.ATRIndicator, org.ta4j.core.indicators.RWIHighIndicator, org.ta4j.core.indicators.MACDIndicator, org.ta4j.core.indicators.MMAIndicator, org.ta4j.core.indicators.helpers.ClosePriceIndicator, org.ta4j.core.indicators.DPOIndicator, org.ta4j.core.indicators.SMAIndicator

@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.530
+class: AbstractCalendarValidator
+class (namespaced): org.apache.commons.validator.routines.AbstractCalendarValidator
+descendents class: TimeValidator, CalendarValidator
+descendents class (namespaced): org.apache.commons.validator.routines.TimeValidator, org.apache.commons.validator.routines.CalendarValidator

@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.167
+class: RecursiveCachedIndicator
+class (namespaced): org.ta4j.core.indicators.RecursiveCachedIndicator
+descendents class: MMAIndicator
+descendents class (namespaced): org.ta4j.core.indicators.MMAIndicator

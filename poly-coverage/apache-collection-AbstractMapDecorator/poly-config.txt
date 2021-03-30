@@ -1,0 +1,6 @@
+org.apache.commons.collections4.map.TransformedSortedMap:../../apache-commons-collections-TransformedSortedMap/oocov-covered-lines.csv
+org.apache.commons.collections4.map.PredicatedSortedMap:../../apache-commons-collections-PredicatedSortedMap/oocov-covered-lines.csv
+org.apache.commons.collections4.map.LazySortedMap:../../apache-commons-collections-LazySortedMap/oocov-covered-lines.csv
+org.apache.commons.collections4.map.FixedSizeMap:../../apache-commons-collections-FixedSizeMap/oocov-covered-lines.csv
+org.apache.commons.collections4.map.PassiveExpiringMap:../../apache-commons-collections-PassiveExpiringMap/oocov-covered-lines.csv
+

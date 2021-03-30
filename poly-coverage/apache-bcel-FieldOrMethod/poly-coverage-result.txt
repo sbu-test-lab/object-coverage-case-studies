@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.484
+class: FieldOrMethod
+class (namespaced): org.apache.bcel.classfile.FieldOrMethod
+descendents class: Field, Method
+descendents class (namespaced): org.apache.bcel.classfile.Field, org.apache.bcel.classfile.Method

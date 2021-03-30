@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.563
+class: ElementValue
+class (namespaced): org.apache.bcel.classfile.ElementValue
+descendents class: EnumElementValue, ArrayElementValue
+descendents class (namespaced): org.apache.bcel.classfile.EnumElementValue, org.apache.bcel.classfile.ArrayElementValue

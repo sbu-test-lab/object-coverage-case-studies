@@ -1,7 +1,0 @@
-"Mutant","Mutant Type","Status "," #Tests "," #Fails "
-"Block.java-original-0","original","live","20","0"
-"Block.java-IHI-2","IHI","killed","20","7"
-"Block.java-IHI-3","IHI","killed","20","9"
-"Block.java-IHI-1","IHI","killed","20","4"
-"Block.java-IHI-4","IHI","killed","20","5"
-"BlockAndGrid-Inhe-parent-constructor-deletion-1","Inhe-parent-constructor-deletion","killed","20","14"

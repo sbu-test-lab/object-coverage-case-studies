@@ -1,0 +1,2 @@
+org.apache.bcel.classfile.ConstantFieldref:../../apache-common-bcel-ConstantFieldref/oocov-covered-lines.csv
+org.apache.bcel.classfile.ConstantInvokeDynamic:../../apache-common-bcel-ConstantInvokeDynamic/oocov-covered-lines.csv

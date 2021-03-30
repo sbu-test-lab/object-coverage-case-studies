@@ -1,0 +1,5 @@
+org.jtetris.models.elements.ReverseL:../../jtetris-ReverseL/oocov-covered-lines.csv
+org.jtetris.models.elements.S:../../jtetris-S/oocov-covered-lines.csv
+
+
+

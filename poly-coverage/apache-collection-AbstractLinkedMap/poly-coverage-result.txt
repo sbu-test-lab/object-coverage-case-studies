@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.292
+class: AbstractLinkedMap
+class (namespaced): org.apache.commons.collections4.map.AbstractLinkedMap
+descendents class: LRUMap
+descendents class (namespaced): org.apache.commons.collections4.map.LRUMap

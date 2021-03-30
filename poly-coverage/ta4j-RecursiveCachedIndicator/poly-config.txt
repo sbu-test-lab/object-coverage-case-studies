@@ -1,0 +1,1 @@
+org.ta4j.core.indicators.MMAIndicator:../../ta4j-MMAIndicator/oocov-covered-lines.csv

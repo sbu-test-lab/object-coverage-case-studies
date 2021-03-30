@@ -1,0 +1,2 @@
+org.apache.bcel.classfile.Field:../../apache-common-bcel-Field/oocov-covered-lines.csv
+org.apache.bcel.classfile.Method:../../apache-common-bcel-Method/oocov-covered-lines.csv

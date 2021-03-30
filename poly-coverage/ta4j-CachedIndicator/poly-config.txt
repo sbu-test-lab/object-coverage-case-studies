@@ -1,0 +1,7 @@
+org.ta4j.core.indicators.helpers.ClosePriceIndicator:../../ta4j-ClosePriceIndicator/oocov-covered-lines.csv
+org.ta4j.core.indicators.MMAIndicator:../../ta4j-MMAIndicator/oocov-covered-lines.csv
+org.ta4j.core.indicators.DPOIndicator:../../ta4j-DPOIndicator/oocov-covered-lines.csv
+org.ta4j.core.indicators.ATRIndicator:../../ta4j-ATRIndicator/oocov-covered-lines.csv
+org.ta4j.core.indicators.SMAIndicator:../../ta4j-SMAIndicator/oocov-covered-lines.csv
+org.ta4j.core.indicators.RWIHighIndicator:../../ta4j-RWIHighIndicator/oocov-covered-lines.csv
+org.ta4j.core.indicators.MACDIndicator:../../ta4j-MACDIndicator/oocov-covered-lines.csv

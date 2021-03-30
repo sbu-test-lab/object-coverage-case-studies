@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 1.000
+class: AbstractGraphBuilder
+class (namespaced): com.google.common.graph.AbstractGraphBuilder
+descendents class: NetworkBuilder, GraphBuilder
+descendents class (namespaced): com.google.common.graph.NetworkBuilder, com.google.common.graph.GraphBuilder

@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.548
+class: PredicatedMap
+class (namespaced): org.apache.commons.collections4.map.PredicatedMap
+descendents class: PredicatedSortedMap
+descendents class (namespaced): org.apache.commons.collections4.map.PredicatedSortedMap

@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.125
+class: Polygon
+class (namespaced): org.jtetris.models.elements.Polygon
+descendents class: S, ReverseL
+descendents class (namespaced): org.jtetris.models.elements.S, org.jtetris.models.elements.ReverseL

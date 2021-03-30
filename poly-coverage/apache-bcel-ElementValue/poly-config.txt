@@ -1,0 +1,2 @@
+org.apache.bcel.classfile.ArrayElementValue:../../apache-common-bcel-ArrayElementValue/oocov-covered-lines.csv
+org.apache.bcel.classfile.EnumElementValue:../../apache-common-bcel-EnumElementValue/oocov-covered-lines.csv

@@ -1,0 +1,3 @@
+org.apache.commons.validator.routines.CurrencyValidator:../../apache-commons-validator-CurrencyValidator/oocov-covered-lines.csv
+org.apache.commons.validator.routines.PercentValidator:../../apache-commons-validator-PercentValidator/oocov-covered-lines.csv
+org.apache.commons.validator.routines.LongValidator:../../apache-commons-validator-LongValidator/oocov-covered-lines.csv

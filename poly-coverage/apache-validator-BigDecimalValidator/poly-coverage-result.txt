@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.500
+class: BigDecimalValidator
+class (namespaced): org.apache.commons.validator.routines.BigDecimalValidator
+descendents class: PercentValidator, CurrencyValidator
+descendents class (namespaced): org.apache.commons.validator.routines.PercentValidator, org.apache.commons.validator.routines.CurrencyValidator

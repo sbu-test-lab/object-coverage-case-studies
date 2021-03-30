@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.333
+class: Constant
+class (namespaced): org.apache.bcel.classfile.Constant
+descendents class: ConstantFieldref, ConstantInvokeDynamic
+descendents class (namespaced): org.apache.bcel.classfile.ConstantFieldref, org.apache.bcel.classfile.ConstantInvokeDynamic

@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.326
+class: StandardNetwork
+class (namespaced): com.google.common.graph.StandardNetwork
+descendents class: StandardMutableNetwork
+descendents class (namespaced): com.google.common.graph.StandardMutableNetwork

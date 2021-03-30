@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.484
+class: TransformedMap
+class (namespaced): org.apache.commons.collections4.map.TransformedMap
+descendents class: TransformedSortedMap
+descendents class (namespaced): org.apache.commons.collections4.map.TransformedSortedMap

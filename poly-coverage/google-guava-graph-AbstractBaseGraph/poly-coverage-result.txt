@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.161
+class: AbstractBaseGraph
+class (namespaced): com.google.common.graph.AbstractBaseGraph
+descendents class: StandardMutableValueGraph, StandardMutableGraph, StandardValueGraph
+descendents class (namespaced): com.google.common.graph.StandardMutableValueGraph, com.google.common.graph.StandardMutableGraph, com.google.common.graph.StandardValueGraph

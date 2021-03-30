@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.250
+class: LazyMap
+class (namespaced): org.apache.commons.collections4.map.LazyMap
+descendents class: LazySortedMap
+descendents class (namespaced): org.apache.commons.collections4.map.LazySortedMap

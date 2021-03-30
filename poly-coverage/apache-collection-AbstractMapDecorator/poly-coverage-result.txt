@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.374
+class: AbstractMapDecorator
+class (namespaced): org.apache.commons.collections4.map.AbstractMapDecorator
+descendents class: PassiveExpiringMap, FixedSizeMap, LazySortedMap, PredicatedSortedMap, TransformedSortedMap
+descendents class (namespaced): org.apache.commons.collections4.map.PassiveExpiringMap, org.apache.commons.collections4.map.FixedSizeMap, org.apache.commons.collections4.map.LazySortedMap, org.apache.commons.collections4.map.PredicatedSortedMap, org.apache.commons.collections4.map.TransformedSortedMap

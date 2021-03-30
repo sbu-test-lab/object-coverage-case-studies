@@ -1,6 +1,0 @@
-===ocov4j poly coverage result===
-poly coverage: 0.724
-class: Grid
-class (namespaced): org.jtetris.models.elements.Grid
-descendents class: Block
-descendents class (namespaced): org.jtetris.models.elements.Block

@@ -1,0 +1,6 @@
+===ocov4j poly coverage result===
+poly coverage: 0.630
+class: Attribute
+class (namespaced): org.apache.bcel.classfile.Attribute
+descendents class: Code
+descendents class (namespaced): org.apache.bcel.classfile.Code
